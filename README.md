@@ -1,1 +1,3 @@
-# NNPTUDM_Ngay1
+# NNPTUDM_NGAY1
+# Họ và Tên; Phạm Long Vũ
+# MSSV: 2280618021
